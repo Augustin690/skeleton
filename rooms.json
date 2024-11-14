@@ -1,0 +1,250 @@
+[
+  {
+    "capacity": 80,
+    "name": "Amphi 2"
+  },
+  {
+    "capacity": 60,
+    "name": "Amphi 3"
+  },
+  {
+    "capacity": 60,
+    "name": "Amphi 4"
+  },
+  {
+    "capacity": 80,
+    "name": "Amphi 5"
+  },
+  {
+    "capacity": 60,
+    "name": "Amphi 6"
+  },
+  {
+    "capacity": 60,
+    "name": "Amphi 7"
+  },
+  {
+    "capacity": 150,
+    "name": "Amphi Estaunié"
+  },
+  {
+    "capacity": 120,
+    "name": "Amphi Dieng-Kuntz"
+  },
+  {
+    "capacity": 350,
+    "name": "Amphi Thévenin"
+  },
+  {
+    "capacity": 70,
+    "name": "0A128"
+  },
+  {
+    "capacity": 70,
+    "name": "0A206"
+  },
+  {
+    "capacity": 20,
+    "name": "0A213"
+  },
+  {
+    "capacity": 50,
+    "name": "0A214"
+  },
+  {
+    "capacity": 50,
+    "name": "0B03"
+  },
+  {
+    "capacity": 32,
+    "name": "0D17"
+  },
+  {
+    "capacity": 20,
+    "name": "0D19"
+  },
+  {
+    "capacity": 40,
+    "name": "0D20"
+  },
+  {
+    "capacity": 32,
+    "name": "1A242"
+  },
+  {
+    "capacity": 34,
+    "name": "1A312"
+  },
+  {
+    "capacity": 64,
+    "name": "1A318"
+  },
+  {
+    "capacity": 78,
+    "name": "1A330"
+  },
+  {
+    "capacity": 22,
+    "name": "1A340"
+  },
+  {
+    "capacity": 24,
+    "name": "1A344"
+  },
+  {
+    "capacity": 12,
+    "name": "1A436"
+  },
+  {
+    "capacity": 40,
+    "name": "1C27"
+  },
+  {
+    "capacity": 48,
+    "name": "1C33"
+  },
+  {
+    "capacity": 24,
+    "name": "1C39"
+  },
+  {
+    "capacity": 28,
+    "name": "1C43"
+  },
+  {
+    "capacity": 26,
+    "name": "1C47"
+  },
+  {
+    "capacity": 38,
+    "name": "1D19"
+  },
+  {
+    "capacity": 20,
+    "name": "2C01"
+  },
+  {
+    "capacity": 22,
+    "name": "3A301"
+  },
+  {
+    "capacity": 22,
+    "name": "3A305"
+  },
+  {
+    "capacity": 24,
+    "name": "3C14"
+  },
+  {
+    "capacity": 16,
+    "name": "3D01"
+  },
+  {
+    "capacity": 20,
+    "name": "4A105"
+  },
+  {
+    "capacity": 20,
+    "name": "4A113"
+  },
+  {
+    "capacity": 30,
+    "name": "4A125"
+  },
+  {
+    "capacity": 19,
+    "name": "4A205"
+  },
+  {
+    "capacity": 19,
+    "name": "4A312"
+  },
+  {
+    "capacity": 22,
+    "name": "5A111"
+  },
+  {
+    "capacity": 40,
+    "name": "1A201"
+  },
+  {
+    "capacity": 40,
+    "name": "1A207"
+  },
+  {
+    "capacity": 14,
+    "name": "1A222"
+  },
+  {
+    "capacity": 33,
+    "name": "1A226"
+  },
+  {
+    "capacity": 36,
+    "name": "1A252"
+  },
+  {
+    "capacity": 36,
+    "name": "1A260"
+  },
+  {
+    "capacity": 14,
+    "name": "1D22"
+  },
+  {
+    "capacity": 32,
+    "name": "1D23"
+  },
+  {
+    "capacity": 16,
+    "name": "3A101"
+  },
+  {
+    "capacity": 16,
+    "name": "3A107"
+  },
+  {
+    "capacity": 16,
+    "name": "3A205"
+  },
+  {
+    "capacity": 23,
+    "name": "3A209"
+  },
+  {
+    "capacity": 38,
+    "name": "3A213"
+  },
+  {
+    "capacity": 18,
+    "name": "3A405"
+  },
+  {
+    "capacity": 16,
+    "name": "3A411"
+  },
+  {
+    "capacity": 16,
+    "name": "3B01"
+  },
+  {
+    "capacity": 16,
+    "name": "3B07"
+  },
+  {
+    "capacity": 48,
+    "name": "4B01"
+  },
+  {
+    "capacity": 36,
+    "name": "5B01"
+  },
+  {
+    "capacity": 44,
+    "name": "5B07"
+  },
+  {
+    "capacity": 20,
+    "name": "5D02"
+  }
+]
